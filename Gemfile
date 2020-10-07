@@ -17,7 +17,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap'
 gem 'faraday'
-gem 'figaro'
+gem 'figaro', '~> 1.2'
 
 group :development, :test do
   gem 'pry'
