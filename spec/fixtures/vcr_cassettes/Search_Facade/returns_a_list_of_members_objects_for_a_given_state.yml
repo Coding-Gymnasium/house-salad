@@ -8,7 +8,7 @@ http_interactions:
       string: ''
     headers:
       X-Api-Key:
-      - "<DONT_SHARE_MY_PROREPUBLICA_KEY"
+      - DONT_SHARE_MY_PROREPUBLICA_KEY
       User-Agent:
       - Faraday v1.0.1
       Accept-Encoding:
@@ -27,27 +27,27 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Thu, 08 Oct 2020 16:46:33 GMT
+      - Mon, 12 Oct 2020 16:19:23 GMT
       X-Amzn-Requestid:
-      - 889bde2a-c290-45d1-8a43-b4c683259eee
+      - 042613cf-4d89-4b70-bb64-42b0ae55d68d
       Access-Control-Allow-Origin:
       - "*"
       Access-Control-Allow-Headers:
       - Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token
       X-Amz-Apigw-Id:
-      - UGdQcGVLIAMF7aA=
+      - UTlB2HAEIAMFX7Q=
       Access-Control-Allow-Methods:
       - GET,OPTIONS
       X-Amzn-Trace-Id:
-      - Root=1-5f7f4269-70f2def754b423452b115590
+      - Root=1-5f84820b-4a311c330d5b84823cb0cee2
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 be1936c1908faca6448a305dec94dc73.cloudfront.net (CloudFront)
+      - 1.1 17a5b9b0c17eb15303e6341f5fc26610.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - DEN52-C1
       X-Amz-Cf-Id:
-      - tB3ud1WkKWoVJ-VCsLOZ85b1RFO-bW-y3cSNhIeFonjnO5URYCgPaQ==
+      - gd8fsYUU4WxeaI-ZjrVM2biKHwFtvEvvGGNMFI-SRhXe9QAXWLZk5Q==
     body:
       encoding: UTF-8
       string: |
@@ -196,5 +196,5 @@ http_interactions:
                  "at_large": false
               }
         ]}
-  recorded_at: Thu, 08 Oct 2020 16:46:33 GMT
+  recorded_at: Mon, 12 Oct 2020 16:19:23 GMT
 recorded_with: VCR 6.0.0
